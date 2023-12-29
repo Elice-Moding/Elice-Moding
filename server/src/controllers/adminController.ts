@@ -48,14 +48,21 @@ const sellerController = {
   },
 
   async deleteMember(req: Request, res: Response) {
-    const { memberId } = req.params;
+    try {
+      const { memberId } = req.params;
 
-    const deletionResult = await userService.deleteMember(memberId);
+      const deletionResult = await userService.deleteMember(memberId);
 
-    res.status(204).json({
-      error: null,
-      data: deletionResult,
-    });
+      res.status(204).json({
+        error: null,
+        data: deletionResult,
+      });
+    } catch (error) {
+      res.status(500).json({
+        error: "서버 오류입니다.",
+        data: null,
+      });
+    }
   },
 
   async getSellers(req: Request, res: Response) {

@@ -110,14 +110,16 @@ const userService = {
   },
   async deleteMember(userId: string) {
     try {
-      const user = await userModel.findById(userId);
+      const deletedUser = await userModel.findByIdAndDelete(userId);
 
-      if (!user) {
+      if (!deletedUser) {
         throw new CustomError("사용자를 찾을 수 없습니다.", 404);
       }
 
-      user.deletedAt = new Date();
-      await user.save();
+      return {
+        success: true,
+        data: deletedUser,
+      };
     } catch (error) {
       return {
         success: false,

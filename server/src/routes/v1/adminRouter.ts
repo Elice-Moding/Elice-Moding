@@ -31,7 +31,7 @@ adminRouter.put(
   asyncHandler(adminController.updateUsername)
 );
 
-adminRouter.post(
+adminRouter.delete(
   "/member/:memberId",
   isAdmin,
   asyncHandler(adminController.deleteMember)
