@@ -1,0 +1,8 @@
+/* 슬라이더 색상 설정 */
+.slick-dots li button:before {
+  color: white !important; /* 흰색으로 설정 */
+}
+
+.slick-dots li.slick-active button:before {
+  color: white !important; /* 활성화된 dot도 흰색으로 설정 */
+}

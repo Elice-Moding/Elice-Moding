@@ -1,0 +1,113 @@
+{
+  "recommend": [
+    {
+      "id": 1,
+      "url": "/images/tsla.jpeg",
+      "alt": "추천상품 1",
+      "description": "도지코인 채굴 가능 컴퓨터",
+      "manufacturer": "테슬라"
+    },
+    {
+      "id": 2,
+      "url": "/images/apple.jpeg",
+      "alt": "추천상품 1",
+      "description": "이걸안사??",
+      "manufacturer": "애플"
+    },
+    {
+      "id": 3,
+      "url": "/images/samsung.jpeg",
+      "alt": "추천상품 1",
+      "description": "쫄???",
+      "manufacturer": "삼성"
+    },
+    {
+      "id": 4,
+      "url": "/images/nvidia.jpeg",
+      "alt": "추천상품 1",
+      "description": "내가 빠지면 되나",
+      "manufacturer": "엔비디아"
+    },
+    {
+      "id": 5,
+      "url": "/images/sam.jpeg",
+      "alt": "추천상품 1",
+      "description": "ai 최신 컴퓨터",
+      "manufacturer": "샘 알트만"
+    },
+    {
+      "id": 6,
+      "url": "/images/cash.png",
+      "alt": "추천상품 1",
+      "description": "돈나무 누나야~",
+      "manufacturer": "캐시우드"
+    },
+    {
+      "id": 7,
+      "url": "/images/bj.jpeg",
+      "alt": "추천상품 1",
+      "description": "금리 인하할게~",
+      "manufacturer": "bj 파월"
+    },
+    {
+      "id": 8,
+      "url": "/images/byeden.jpeg",
+      "alt": "추천상품 1",
+      "description": "바이드노믹스야!!",
+      "manufacturer": "바이든"
+    },
+    {
+      "id": 9,
+      "url": "/images/kim.jpeg",
+      "alt": "추천상품 1",
+      "description": "관심좀 주라,,,",
+      "manufacturer": "김정은"
+    },
+    {
+      "id": 10,
+      "url": "/images/fit.jpeg",
+      "alt": "추천상품 1",
+      "description": "코카콜라가 짱이야",
+      "manufacturer": "워렌 버핏"
+    }
+  ],
+  "popular": [
+    {
+      "id": 1,
+      "url": "/images/super.png",
+      "alt": "인기상승 1",
+      "description": "걸으면서 돈을 벌어요",
+      "manufacturer": "슈퍼워크"
+    },
+    {
+      "id": 2,
+      "url": "/images/snkrz.webp",
+      "alt": "인기상승 1",
+      "description": "걸으면서 돈을 벌어요",
+      "manufacturer": "스니커즈"
+    },
+    {
+      "id": 3,
+      "url": "/images/money.jpeg",
+      "alt": "인기상승 1",
+      "description": "걸으면서 돈을 벌어요",
+      "manufacturer": "머니워크"
+    },
+    {
+      "id": 4,
+      "url": "/images/cashwalk.png",
+      "alt": "인기상승 1",
+      "description": "걸으면서 돈을 벌어요",
+      "manufacturer": "캐시워크"
+    }
+  ],
+  "funding": [
+    {
+      "id": 1,
+      "url": "/images/console.jpg",
+      "alt": "펀딩랭킹 1",
+      "description": "새로운 게임 경험을 제공하는 게임 콘솔",
+      "manufacturer": "제조사 C"
+    }
+  ]
+}
