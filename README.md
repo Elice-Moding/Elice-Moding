@@ -1,6 +1,12 @@
 # 📖 Project Title
 모딩(모두의 펀딩)
 
+![image](https://github.com/Elice-Moding/dev/assets/91791632/e4eb45a8-e42b-4e9a-a417-7e8e4155ea72)
+
+![image](https://github.com/Elice-Moding/dev/assets/91791632/fd23e210-5424-45f1-b1e6-8560d4d67bc3)
+![image](https://github.com/Elice-Moding/dev/assets/91791632/1dc9bbdc-1cbc-44d6-9afb-b8934f62d911)
+
+
 ## 🌏 프로젝트 개요
 "모딩(모두의 펀딩)" 프로젝트의 목표는 다양한 분야의 사람들이 자신의 아이디어나 프로젝트를 실현하기 위한 자금을 모을 수 있는 플랫폼을 제공하는 것입니다.
 이 플랫폼을 통해 개인 또는 그룹이 자금을 모을 수 있고, 후원자들은 다양한 프로젝트를 지원하면서 보상을 받을 수 있는 환경을 제공합니다.
